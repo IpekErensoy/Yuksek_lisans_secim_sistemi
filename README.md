@@ -1,1 +1,1 @@
-# Yuksek_lisans_secim_sistemi_2
+# yuksek_lisans_secim_sistemi
